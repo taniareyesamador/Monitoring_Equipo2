@@ -13,6 +13,8 @@ Compara las distancias obtenidas.
 
 ## Práctica Diferenciación entre Data Drift y Concept Drift
 
+![data_concept_drift](imagenes/data_concept_drift.png)
+
 1. ¿Cómo cambia el rendimiento del modelo en situaciones de data drift y concept drift? Argumenta tu respuesta
 
 
