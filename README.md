@@ -20,6 +20,10 @@ Compara las distancias obtenidas.
 
 ## Práctica: Detección de Anomalías con Isolation Forest y One-Class SVM
 
+![deteccion_anomalias_1](imagenes/deteccion_anomalias_1.png)
+![deteccion_anomalias_2](imagenes/deteccion_anomalias_2.png)
+![deteccion_anomalias_3](imagenes/deteccion_anomalias_3.png)
+
 Explica los resultados obtenidos además de los métodos para detectar anomalías (debes explicarlo NO solo mencionarlo)
 
 
