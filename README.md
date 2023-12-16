@@ -37,7 +37,7 @@ Los puntos marcados com ooutliers fueron marcados por los algortimos de Isolatio
 
 ## Práctica: Evaluación de la Calidad de un Modelo de Machine Learning
 
-![evaluacion_calidad.png](imagenes/evaluacion_calidad.png)
+![evaluacion_calidad](imagenes/evaluacion_calidad.png)
 
 1. Explica en tus palabras la evaluación del presente modelo de acuerdo a la precisión.
 El resultado de la precisión puede deberse a que las muestras que se están usando para probar el modelo están muy bien diferenciadas y no hay ningún caso límite, sin embargo, puede darse el caso de que exista overfitting.
@@ -46,6 +46,8 @@ El resultado de la precisión puede deberse a que las muestras que se están usa
 La precisión del modelo fue de 1, y en la matriz de confusión de puede corroborar, ya que todos los valores se encuentran en la diagonal, lo que quieres decir que todas las etiquetas fueron asignadas correctamente.
 
 ## Práctica Dashboard
+
+![Practica_Dashboard](Practica_Dashboard/screenshot.png)
 
 1. Explica cada una de las métricas que ves en el dashboard y has una interpretación de las mismas respecto a lo que ves en las gráficas
 
