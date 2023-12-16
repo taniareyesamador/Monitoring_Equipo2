@@ -29,7 +29,7 @@ Explica los resultados obtenidos además de los métodos para detectar anomalía
 
 ## Práctica: Evaluación de la Calidad de un Modelo de Machine Learning
 
-![evaluacion_calidad.png](imagenes/evaluacion_calidad.png.png)
+![evaluacion_calidad.png](imagenes/evaluacion_calidad.png)
 
 1. Explica en tus palabras la evaluación del presente modelo de acuerdo a la precisión.
 
