@@ -47,7 +47,7 @@ La precisión del modelo fue de 1, y en la matriz de confusión de puede corrobo
 
 ## Práctica Dashboard
 
-![Practica_Dashboard](Practica_Dashboard/screenshot.png)
+![Practica_Dashboard](Practica_Dashboard/Screenshot.png)
 
 1. Explica cada una de las métricas que ves en el dashboard y has una interpretación de las mismas respecto a lo que ves en las gráficas
 
